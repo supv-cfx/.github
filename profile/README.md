@@ -28,6 +28,9 @@ ____
 </div>
 
 <div align="center">
+        <a href=""> 
+            <img src="https://img.shields.io/badge/Tebex-FFA116?style=for-the-badge&logo=fivem"/>
+        </a>
   <!--
         <a href="https://github.com/SUBLiME-Association">
                 <img width="5%" src="https://avatars.githubusercontent.com/u/95303960?s=200&v=4" />
