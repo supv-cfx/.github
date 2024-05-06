@@ -9,7 +9,9 @@ ____
 </div>
 
 <div align="center">
-        <img width="45%" src="https://github-readme-stats.vercel.app/api?username=SUP2Ak&layout=compact&theme=react&hide_border=true&show_icons=true" href="https://github.com/SUP2Ak"/>
+        <a href="https://github.com/SUP2Ak">
+                <img width="45%" src="https://github-readme-stats.vercel.app/api?username=SUP2Ak&layout=compact&theme=react&hide_border=true&show_icons=true"/>
+        </a>
 </div>
 
 ____
