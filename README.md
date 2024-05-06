@@ -1,4 +1,6 @@
-# :fr: LJLIFE RP :fr:
+<div align="center">
+        <h1>🇫🇷 LJLIFE RP 🇨🇦 </h2>
+</div>
 
 <div align="center">
         <h2>Lead Team Development</h2>
