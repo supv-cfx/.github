@@ -1,8 +1,8 @@
 <div align="center">
-        <h1>🇫🇷 LJLIFE RP 🇨🇦 </h2>
+        <h1>SUPV CFX</h2>
 </div>
 
-____
+____ 
 
 <div align="center">
         <h2>Lead Team Development</h2>
@@ -17,13 +17,13 @@ ____
 ____
         
 <div align="center">
-        <a href="https://discord.gg/ljlife">
-                <img src="https://img.shields.io/discord/924274917489381426?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
+        <a href="https://discord.gg/hWgF7nR2f5">
+                <img src="https://img.shields.io/discord/1133835713918550137?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
         </a>
 </div>
 <div align="center">
-        <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FLJ-Life-RP">
-                <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLJ-Life-RP&countColor=%23263759" />
+        <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsupv-cfx">
+                <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2supv-cfx&countColor=%23263759" />
         </a>
 </div>
 
