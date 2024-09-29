@@ -1,5 +1,5 @@
 <div align="center">
-        <h1>🇫🇷 LJLIFE RP 🇨🇦 </h2>
+        <h1>supv-cfx</h2>
 </div>
 
 <div align="center">
